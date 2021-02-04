@@ -20,6 +20,13 @@
       "attention": false,
       "date": "2020-02-20",
       "tech": "Sara wilson"
+    },
+    {
+      "message": "112 Server down",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2021-02-04T02:32:08.408Z",
+      "id": 4
     }
   ],
   "techs": [
