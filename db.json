@@ -2,10 +2,10 @@
   "logs": [
     {
       "id": 1,
-      "message": "Changed hard drive on workstation 005",
+      "message": "Changed hard drive on workstation 006",
       "attention": false,
-      "date": "2020-02-5",
-      "tech": "Sam Smith"
+      "tech": "John Doe",
+      "data": "2021-02-09T00:49:20.159Z"
     },
     {
       "id": 2,
@@ -32,23 +32,18 @@
   "techs": [
     {
       "id": 1,
-      "firstname": "John",
-      "lastname": "Doe"
+      "firstName": "John",
+      "lastName": "Doe"
     },
     {
       "id": 2,
-      "firstname": "Sam",
-      "lastname": "Smith"
+      "firstName": "Sam",
+      "lastName": "Smith"
     },
     {
       "id": 3,
-      "firstname": "Sara",
-      "lastname": "Wilson"
-    },
-    {
-      "firstname": "al",
-      "lastname": "Ho",
-      "id": 4
+      "firstName": "Sara",
+      "lastName": "Wilson"
     }
   ]
 }
